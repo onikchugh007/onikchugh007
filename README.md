@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/D609Ay5PK5QAAAAj/skill-issue-coding.gif)
+![MasterHead](https://i.makeagif.com/media/4-05-2022/FvBVst.gif)
 
 <h1 align="center">Hi 👋, I'm Onik</h1>
 <h3 align="center">Passionate about coding, I'm currently expanding my skills in C++, Python, CSS.</h3>
