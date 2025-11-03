@@ -1,4 +1,4 @@
-# Hi there, I'm Onik Chugh! 👋
+# Hi there, I'm Onik! 👋
 
 ## 🚀 About Me
 
@@ -11,6 +11,7 @@ const aboutMe = {
     "Coding", "Singing"
   ]
 }
+
 <h3 align="center">I'm passionate about coding and currently expanding my skills in MERN , Java, Python, CSS, and JavaScript. Learning is a journey, and I'm thrilled to be on this exciting one in the world of programming.</h3>
 
 ## 🛠 Skills
@@ -60,4 +61,4 @@ const aboutMe = {
   <a href="https://www.leetcode.com/jeetbiswass764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeetbiswass764" height="30" width="40" /></a>
 </p>
 
-🌟 From [Jeet Biswas](https://github.com/jeetbiswas23)
+🌟 From [Onik Chugh](https://github.com/onikchugh007)
