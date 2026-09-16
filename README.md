@@ -6,6 +6,9 @@
   <a href="https://github.com/onikchugh007">
     <img src="https://komarev.com/ghpvc/?username=onikchugh007&color=orange&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
+  <a href="https://github.com/onikchugh007?tab=followers">
+    <img src="https://img.shields.io/github/followers/onikchugh007?label=Followers&style=flat-square&color=blue" alt="Followers" />
+  </a>
 </p>
 
 ---
@@ -68,12 +71,13 @@ const onik = {
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onikchugh007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Onik's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onikchugh007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=onikchugh007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Onik's GitHub stats" height="170" />
+  &nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=onikchugh007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onikchugh007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<div align="center" style="margin-top: 14px;">
+  <img src="https://streak-stats.demolab.com?user=onikchugh007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
