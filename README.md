@@ -59,6 +59,29 @@ const aboutMe = {
 
 ---
 
+<h2 align="center">🏆 Achievements & Badges</h2>
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="95" alt="Pull Shark" title="Pull Shark" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="95" alt="Quickdraw" title="Quickdraw" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="95" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95" alt="YOLO" title="YOLO" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="95" alt="Arctic Code Vault" title="Arctic Code Vault Contributor" />
+</p>
+
+<p align="center" style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Problem_Solving-5★_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Problem Solving" />
+  <img src="https://img.shields.io/badge/LeetCode-DSA_Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/Postman-API_Certified-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Backend-REST_Architecture-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST" />
+</p>
+
+---
+
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=onikchugh007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Onik's GitHub stats" height="170" />
   &nbsp;
